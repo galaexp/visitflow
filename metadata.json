@@ -1,0 +1,6 @@
+{
+  "name": "StoreFlow",
+  "description": "Offline-first retail store visit, observation, action tracking and scheduling app for field workers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

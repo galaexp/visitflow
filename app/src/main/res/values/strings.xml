@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">StoreFlow</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_stores">Stores</string>
+    <string name="nav_visits">Visits</string>
+    <string name="nav_actions">Actions</string>
+    <string name="nav_schedule">Schedule</string>
+    <string name="nav_reports">Reports</string>
+    <string name="nav_settings">Settings</string>
+
+    <string name="start_visit">Start Visit</string>
+    <string name="end_visit">End Visit</string>
+    <string name="resume_visit">Resume Visit</string>
+    <string name="save_draft">Save Draft</string>
+    <string name="new_store">Add Store</string>
+    <string name="new_action">New Action</string>
+    <string name="schedule_visit">Plan Visit</string>
+    <string name="export_excel">Export Excel (.xlsx)</string>
+    <string name="share_summary">Share Summary</string>
+    <string name="sync_now">Sync Now</string>
+    <string name="filter_all">All</string>
+    <string name="filter_open">Open</string>
+    <string name="filter_overdue">Overdue</string>
+    <string name="filter_completed">Completed</string>
+    <string name="search_hint">Search stores, visits, actions…</string>
+    <string name="status_in_progress">In Progress</string>
+    <string name="status_completed">Completed</string>
+    <string name="status_draft">Draft</string>
+    <string name="status_cancelled">Cancelled</string>
+    <string name="priority_low">Low</string>
+    <string name="priority_normal">Normal</string>
+    <string name="priority_high">High</string>
+    <string name="priority_critical">Critical</string>
+    <string name="offline_badge">Offline Mode (Local Storage)</string>
+    <string name="queued_sync">Changes queued for sync</string>
+</resources>
